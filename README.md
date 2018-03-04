@@ -1,5 +1,4 @@
 # Possion Reconstruction
----
 
 ### Algorithm Introduction
 
@@ -11,5 +10,8 @@
  - [Zhejiang University Introduction](http://www.cad.zju.edu.cn/home/gfzhang/course/computational-photography/3.pdf)
 
 ### Experiment
+
+![Experiment](https://github.com/whitelok/possion-reconstruction/blob/master/_resources/Experiment_1.PNG)
+
 
 
